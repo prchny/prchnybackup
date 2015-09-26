@@ -1,0 +1,28 @@
+Please change your formatter and code style in eclipse preferences.
+
+Steps to change formatter:
+1.) Under the window menu click preferences.
+2.) Click on java tab and open it.
+3.) Open code style menu inside java.
+4.) Click on formatter.
+5.) Click on import and choose the formatter path. i.e formatter.xml
+6.) Click ok to apply.
+
+Steps to add code style templates:
+1.) Under the window menu click preferences.
+2.) Click on java tab and open it.
+3.) Open code style menu inside java.
+4.) Click on Code Templates.
+5.) Click on code and open the menu in right side pane.
+6.) Under the code menu select New Java Files.
+7.) Click on import and choose the codestyle path from codetemplate.xml
+8.) Click ok to apply
+
+
+Steps to add logger template:
+1.) Under the window menu click preferences.
+2.) Click on java tab and open it.
+3.) Open editor menu inside java.
+4.) Click on templates inside editor menu.
+5.) Click on import and choose the template path. i.e templates.xml
+6.) Click ok to apply.
